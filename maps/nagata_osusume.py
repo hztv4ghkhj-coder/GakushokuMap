@@ -1,6 +1,6 @@
 from maps.AbstractGakushoku import AbstractGakushoku
 
-class GakushokuSample(AbstractGakushoku):
+class nagata_osusume(AbstractGakushoku):
 
     def get_menu(self):
         return "ようかん"

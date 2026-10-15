@@ -1,12 +1,12 @@
 from maps.AbstractGakushoku import AbstractGakushoku
 
-class GakushokuSample(AbstractGakushoku):
+class miyamoto_osusume(AbstractGakushoku):
 
     def get_menu(self):
         return "すきや"
 
     def get_summary(self):
-        return "オススメのポイントやなぜオススメできるかなど、簡単に書きます"
+        return "やすい"
 
     def get_author(self):
-        return "書いた人の名前を書きます"
+        return "宮本"
