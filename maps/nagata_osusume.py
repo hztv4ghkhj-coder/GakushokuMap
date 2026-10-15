@@ -9,4 +9,4 @@ class GakushokuSample(AbstractGakushoku):
         return "98円で買える、安くて美味しい和菓子です！あとうまい！"
 
     def get_author(self):
-        return "ながた"
+        return "長田"
